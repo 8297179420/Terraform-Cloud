@@ -1,2 +1,2 @@
-variable "AWS_ACCESS_KEY"{}
-variable "AWS_SECRET_KEY"{} 
+variable "AKIA2UJTPUWYKECURBFA"{}
+variable "BcIsPofz3vPZco7fLDFmhwzx2Nc8dYMWxKKp4Frm"{} 
